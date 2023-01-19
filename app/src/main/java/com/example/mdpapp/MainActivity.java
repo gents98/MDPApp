@@ -70,9 +70,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initViews() {
-//        imageView=findViewById(R.id.image);
-//        textview=findViewById(R.id.textView);
-//        btn= (Button) findViewById(R.id.btn);
+        imageView=findViewById(R.id.image);
+        textview=findViewById(R.id.textview);
+        btn= (Button) findViewById(R.id.btn);
     }
 
 
